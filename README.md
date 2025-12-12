@@ -61,23 +61,38 @@
 |   5  |   수상 실적  |   Amazon Research Award  |   Awarded for research advances on efficient AI  |   Prof. Xiaoxiao Li, UBC  |   2025.11  |   Amazon  |
 |   6  |   수상 실적  |   KSC 우수논문상  |   우수 논문에 따른 수상  |   KAIST 최정환 학생  |   2025.12  |   한국정보과학회  |
 
-### 기타 성과
+<!-- ### 기타 성과 -->
 
 
 ## 2024
 ### 논문 (국내외 전문 학술지) 게재
-
+|   번호  |   논문명  |   학술지명  |   주저자명  |   호  |   국명  |   발행기관  |   SCIE 여부   (SCIE/비SCIE)  |   게재일  |   등록번호   (ISSN)  |   기여율  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   1  |   From Generation to Selection: Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions  |   Findings of EMNLP 2024  |   신동현, 이승필  |     |   미국  |   Association for Computational Linguistics  |   비SCIE   (한국정보과학회 우수학술대회 목록 내 우수)  |   2024-11-12  |   979-8-89176-168-1  |   50  |
+|   2  |   UniSumEval: Towards Unified, Fine-grained, Multi-dimensional Summarization Evaluation for LLMs  |   Findings of EMNLP 2024  |   이유호, 윤태원  |     |   미국  |   Association for Computational Linguistics  |   비SCIE   (한국정보과학회 우수학술대회 목록 내 우수)  |   2024-11-12  |   979-8-89176-168-1  |   40  |
+|   3  |   세분화된 LLM 피드백을 활용한 요약문 평가 모델 학습  |   KSC   2024  |   오지환  |     |   대한민국  |   한국정보과학회  |   비SCIE  |   2024-12-20  |     |   50  |
+|   4  |   지도 대조 학습을 통한 강건한 데이터셋 응축 방법론  |   KSC   2024  |   김희연  |     |   대한민국  |   한국정보과학회  |   비SCIE  |   2024-12-20  |     |   100  |
+|   5  |   Learning to Verify Summary Facts with Fine-Grained LLM Feedback  |   COLING 2025  |   오지환  |     |   미국  |   Association for Computational Linguistics  |   비SCIE   (한국정보과학회 우수학술대회 목록 내 우수)  |   2025-01-23  |   979-8-89176-196-4  |   50  |
 
 ### 국내 및 국제 학술회의 발표
+|   번호  |   회의 명칭  |   발표자  |   발표 일시  |   장소  |   국명  |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|   1  |   EMNLP 2024  |   신동현  |   2024-11-12  |   마이애미  |   미국  |
+|   2  |   EMNLP 2024  |   이유호, 윤태원  |   2024-11-12  |   마이애미  |   미국  |
+|   3  |   KSC 2024  |   오지환  |   2024-12-20  |   여수  |   대한민국  |
+|   4  |   KSC 2024  |   김희연  |   2024-12-20  |   여수  |   대한민국  |
+|   5  |   COLING 2025  |   오지환  |   2025-01-23  |   아부다비  |   아랍에미리트  |
+
+<!-- ### 지식재산권(특허, 실용신안, 의장, 디자인, 상표, 규격, 신품종, 프로그램) -->
 
 
-### 지식재산권(특허, 실용신안, 의장, 디자인, 상표, 규격, 신품종, 프로그램)
-
-
-### 홍보 실적
+<!-- ### 홍보 실적 -->
 
 
 ### 포상 및 수상 실적
+|   번호  |   종류  |   포상명  |   포상 내용  |   포상 대상  |   포상일  |   포상 기관  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   1  |   포상 실적  |   KAIST 글로벌연구협력상  |   국제 연구네트워킹 활성화에 따른 포상  |   KAIST 송환준 교수  |   2024.12.11  |   KAIST 총장  |
+|   2  |   수상 실적  |   KSC 우수발표 논문상  |   우수 발표 논문에 따른 수상  |   KAIST 오지환 학생  |     |   한국정보과학회  |
 
-
-### 기타 성과
+<!-- ### 기타 성과 -->
