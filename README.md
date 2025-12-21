@@ -10,12 +10,12 @@
     * [3. 지식재산권](#3-지식재산권)
     * [4. 홍보 실적](#4-홍보-실적)
     * [5. 포상 및 수상 실적](#5-포상-및-수상-실적)
-* [3차년도 (2026.01 ~ 2026.12)](#3차년도-202601--2026-12)
-* [4차년도 (2027.01 ~ 2027.08)](#4차년도-202701--2027-08)
+* [3차년도 (2026.01 ~ 2026.12)](#3차년도-202601--202612)
+* [4차년도 (2027.01 ~ 2027.08)](#4차년도-202701--202708)
 
 ## 1차년도 (2024.09 ~ 2025.02)
 ### 1. 논문 (국내외 전문 학술지) 게재
-|   번호  |   논문명  | ㅜ  학술지명  |   주저자명  |   호  |   국명  |   발행기관  |   SCIE 여부   (SCIE/비SCIE)  |   게재일  |   등록번호   (ISSN)  |   기여율  |
+|   번호  |   논문명  |   학술지명  |   주저자명  |   호  |   국명  |   발행기관  |   SCIE 여부   (SCIE/비SCIE)  |   게재일  |   등록번호   (ISSN)  |   기여율  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   1  |   From Generation to Selection: Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions  |   Findings of EMNLP 2024  |   신동현, 이승필  |     |   미국  |   Association for Computational Linguistics  |   비SCIE   (한국정보과학회 우수학술대회 목록 내 우수)  |   2024-11-12  |   979-8-89176-168-1  |   50  |
 |   2  |   UniSumEval: Towards Unified, Fine-grained, Multi-dimensional Summarization Evaluation for LLMs  |   Findings of EMNLP 2024  |   이유호, 윤태원  |     |   미국  |   Association for Computational Linguistics  |   비SCIE   (한국정보과학회 우수학술대회 목록 내 우수)  |   2024-11-12  |   979-8-89176-168-1  |   40  |
@@ -51,37 +51,30 @@
 ### 1. 논문 (국내외 전문 학술지) 게재
 |   번호  |   논문명  |   학술지명  |   주저자명  |   호  |   국명  |   발행기관  |   SCIE 여부   (SCIE/비SCIE)  |   게재일  |   등록번호   (ISSN)  |   기여율  |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   1  |   Revisiting Delta-Parameter Pruning for Fine-Tuned Models  |   In 2025 International Conference on Learning Representations (ICLR 2025)  |   Deng, W.  |   Online Published  |   싱가포르  |   ICLR  |   최우수학술대회  |   2025.04.28  |   -  |   40  |
-|   2  |   GMValuator: Similarity-based Data Valuation for Generative Models  |   In 2025 International Conference on Learning Representations (ICLR 2025)  |   Yang, J.  |   Online Published  |   싱가포르  |   ICLR  |   최우수학술대회  |   2025.04.28  |   -  |   50  |
-|   3  |   Learning to Summarize from LLM-generated Feedback  |   Proceedings of the 2025 Conference of the Nations of Americas Chapter of the Association for Computational Linguistics  |   송환준  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.04.29  |   ISBN: 979-8-89176-189-6  |   50  |
-|   4  |   사용자 프로필 관리를 통한 대형 언어 모델 추천 성능 향상  (Enhancing Recommendation Performance of Large Language Models via User Profile Management)  |   2025 한국컴퓨터종합학술대회 (KSC2025)  |   송환준  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.07.04  |   -  |   50  |
-|   5  |   검색 성능과 생성 성능 간 정렬성을 고려한 검색 증강 생성 벤치마크 데이터셋  (A Benchmark Dataset for Retrieval-Augmented Generation Considering Performance Alignment between Retrieval and Generation)  |   2025 한국컴퓨터종합학술대회 (KSC2025)  |   반민정  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.07.04  |   -  |   50  |
-|   6  |   Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages  |   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics  |   민향숙, 이유호  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.07.27  |   ISBN:   979-8-89176-251-0  |   50  |
-|   7  |   Word2Passage: Word-level Importance Re-weighting for Query Expansion  |   Findings of the Association for Computational Lunguistics  |   최정환  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.07.27  |   ISBN:   979-8-89176-256-5  |   50  |
-|   8  |   Addressing and Visualizing Misalignments in Human   Task-Solving Trajectories  |   KDD '25: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2  |   김세진  |   -  |   미국  |   Association for Computing Machinery   (ACM)  |   최우수학술대회  |   2025.08.03  |   ISBN:   979-8-4007-1454-2  |   25  |
-|   9  |   Solution Augmentation for ARC-AGI Problems Using GFlowNet: A Probabilistic Exploration Approach  |   Transactions on Machine Learning Research  |   황산하  |   Online Published  |   미국  |   Transactions on Machine Learning Research   (TMLR)  |   비SCIE  |   2025.09.12  |   2835-8856  |   30  |
-|   10  |   Robust Dataset Condensation using Supervised Contrastive Learning  |   Proceddings of the IEEE/CVF International Conference on Computer Vision (ICCV)  |   김희연  |   Online Published  |   미국  |   Institute of Electical and Electronics Engineers   (IEEE)  |   최우수학술대회  |   2025.10.21  |   ISSN:   2380-7504  |   50  |
-|   11  |   On the Effect of Negative Gradient in Group Relative Deep Reinforcement Optimization  |   In 2025 Conference on Neural Information Processing Systems (NeurIPS 2025)  |   Deng, W.  |   Online Published  |   미국  |   NeurIPS Foundation  |   최우수학술대회  |   2025.12.05  |   1049-5258  |   40  |
-|   12  |   세분화된 검색 증강 생성 평가를 위한 질의 분해 기반 프레임워크   (A Query Decompositional Framework for Fine-grained RAG Assessment)  |   2025 한국소프트웨어종합학술대회 (KSC2025)  |   최정환  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.12.19  |   -  |   50  |
-|   13  |   스트리밍 대화 요약: 메모리 보강 기반 요약 및 평가   (Streaming Dialogue Summarization:  A Memory-Augmented Framework for Summarization and Evaluation)  |   2025 한국소프트웨어종합학술대회 (KSC2025)  |   민향숙  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.12.19  |   -  |   50  |
+|   1  |   Learning to Summarize from LLM-generated Feedback  |   Proceedings of the 2025 Conference of the Nations of Americas Chapter of the Association for Computational Linguistics  |   송환준  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.04.29  |   ISBN: 979-8-89176-189-6  |   50  |
+|   2  |   사용자 프로필 관리를 통한 대형 언어 모델 추천 성능 향상  (Enhancing Recommendation Performance of Large Language Models via User Profile Management)  |   2025 한국컴퓨터종합학술대회 (KSC2025)  |   송환준  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.07.04  |   -  |   50  |
+|   3  |   검색 성능과 생성 성능 간 정렬성을 고려한 검색 증강 생성 벤치마크 데이터셋  (A Benchmark Dataset for Retrieval-Augmented Generation Considering Performance Alignment between Retrieval and Generation)  |   2025 한국컴퓨터종합학술대회 (KSC2025)  |   반민정  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.07.04  |   -  |   50  |
+|   4  |   Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages  |   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics  |   민향숙, 이유호  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.07.27  |   ISBN:   979-8-89176-251-0  |   50  |
+|   5  |   Word2Passage: Word-level Importance Re-weighting for Query Expansion  |   Findings of the Association for Computational Lunguistics  |   최정환  |   Online Published  |   미국  |   Association for Computational Lunguistics (ACL)  |   최우수학술대회  |   2025.07.27  |   ISBN:   979-8-89176-256-5  |   50  |
+|   6  |   Addressing and Visualizing Misalignments in Human   Task-Solving Trajectories  |   KDD '25: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2  |   김세진  |   -  |   미국  |   Association for Computing Machinery   (ACM)  |   최우수학술대회  |   2025.08.03  |   ISBN:   979-8-4007-1454-2  |   25  |
+|   7  |   Solution Augmentation for ARC-AGI Problems Using GFlowNet: A Probabilistic Exploration Approach  |   Transactions on Machine Learning Research  |   황산하  |   Online Published  |   미국  |   Transactions on Machine Learning Research   (TMLR)  |   비SCIE  |   2025.09.12  |   2835-8856  |   30  |
+|   8  |   Robust Dataset Condensation using Supervised Contrastive Learning  |   Proceddings of the IEEE/CVF International Conference on Computer Vision (ICCV)  |   김희연  |   Online Published  |   미국  |   Institute of Electical and Electronics Engineers   (IEEE)  |   최우수학술대회  |   2025.10.21  |   ISSN:   2380-7504  |   50  |
+|   9  |   세분화된 검색 증강 생성 평가를 위한 질의 분해 기반 프레임워크   (A Query Decompositional Framework for Fine-grained RAG Assessment)  |   2025 한국소프트웨어종합학술대회 (KSC2025)  |   최정환  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.12.19  |   -  |   50  |
+|   10  |   스트리밍 대화 요약: 메모리 보강 기반 요약 및 평가   (Streaming Dialogue Summarization:  A Memory-Augmented Framework for Summarization and Evaluation)  |   2025 한국소프트웨어종합학술대회 (KSC2025)  |   민향숙  |   -  |   대한민국  |   한국정보과학회  |   비SCIE  |   2025.12.19  |   -  |   50  |
 
 ### 2. 국내 및 국제 학술회의 발표
 |   번호  |   회의 명칭  |   발표자  |   발표 일시  |   장소  |   국명  |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |   1  |   NAACL 2025  |   송환준  |   2025.04.29  |   뉴멕시코  |   미국  |
-|   2  |   ICLR 2025  |   Xiaoxiao Li, Minghui Chen  |   2025.4  |   싱가포르  |   싱가포르  |
-|   3  |   KCC 2025  |   방승환  |   2025.07.02  |   제주도  |   한국  |
-|   4  |   KCC 2025  |   반민정  |   2025.07.02  |   제주도  |   한국  |
-|   5  |   SIGIR 2025  |   송환준  |   2025.07.13  |   이탈리아  |   유럽  |
-|   6  |   ICML 2025  |   Xiaoxiao Li, Minghui Chen  |   2025.7.17  |   밴쿠버  |   캐나다  |
-|   7  |   ACL 2025  |   민향숙  |   2025.07.27  |   오스트리아  |   유럽  |
-|   8  |   ACL 2025  |   최정환  |   2025.07.27  |   오스트리아  |   유럽  |
-|   9  |   KDD 2025  |   김세진, 김선동  |   2025.08.03  |   토론토  |   캐나다  |
-|   10  |   MICCAI 2025  |   Xiaoxiao Li, Beldi Chen  |   2025.9.26  |   대전  |   한국  |
-|   11  |   ICCV 2025  |   김희연  |   2025.10.19  |   하와이  |   미국  |
-|   12  |   NeurIPS 2025  |   Xiaoxiao Li, Wenlong Deng  |   2025.12.05  |   샌디에고  |   미국  |
-|   13  |   KSC 2025  |   최정환  |   2025.12.16  |   여수  |   한국  |
-|   14  |   KSC 2025  |   민향숙  |   2025.12.16  |   여수  |   한국  |
+|   2  |   KCC 2025  |   방승환  |   2025.07.02  |   제주도  |   한국  |
+|   3  |   KCC 2025  |   반민정  |   2025.07.02  |   제주도  |   한국  |
+|   4  |   SIGIR 2025  |   송환준  |   2025.07.13  |   이탈리아  |   유럽  |
+|   5  |   ACL 2025  |   민향숙  |   2025.07.27  |   오스트리아  |   유럽  |
+|   6  |   ACL 2025  |   최정환  |   2025.07.27  |   오스트리아  |   유럽  |
+|   7  |   KDD 2025  |   김세진, 김선동  |   2025.08.03  |   토론토  |   캐나다  |
+|   8  |   ICCV 2025  |   김희연  |   2025.10.19  |   하와이  |   미국  |
+|   9  |   KSC 2025  |   최정환  |   2025.12.16  |   여수  |   한국  |
+|   10  |   KSC 2025  |   민향숙  |   2025.12.16  |   여수  |   한국  |
 
 ### 3. 지식재산권(특허, 실용신안, 의장, 디자인, 상표, 규격, 신품종, 프로그램)
 |   번호  |   지식재산권 등 명칭   (건별 각각 기재)  |   국명  |   출원인  |   출원일  |   출원 번호  |   등록 번호  |   등록인  |   등록일  |   등록 번호  |   기여율  |   활용 여부  |
@@ -93,7 +86,8 @@
 ### 4. 홍보 실적
 |   번호  |   홍보 유형  |   매체명  |   제목  |   홍보일  |
 |:---:|:---:|:---:|:---:|:---:|
-|   1  |   언론 보도  |   전자신문 등 국내 매체  |   GIST 김선동 교수 연구팀, LLM 추론 능력 정량 측정하는 프레임워크 개발  |   2025.02.13  |
+|   1  |   과학문화행사  |   대한민국과학문화기술대전  |   대한민국 과학문화 기술대전 참가 - 연구 성과 공유: 거대 언어 모델의 추론 능력 평가 관련 성과 전시 및 시연  |   2025.04.16-20  |
+|   2  |   언론 보도  |   KAIST Breakthrough Webzin  |   AI가 만든 피드백으로 더 똑똑해지는 AI  |   2025.08.26  |
 |   3  |   언론 보도  |   인공지능신문 등 국내 매체  |   “사람의 풀이 과정을 따라 ‘의도’를 이해하는 AI”...GIST 김선동 교수팀, 인간처럼 추론하는 AI 구현  |   2025.09.25  |
 
 ### 5. 포상 및 수상 실적
