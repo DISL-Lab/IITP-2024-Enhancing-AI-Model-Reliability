@@ -94,12 +94,9 @@
 
 |   번호  |   종류  |   포상명  |   포상 내용 |   포상 대상  |   포상일   |   포상 기관   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|   1  |   수상 실적  |   Reasoning Dataset Competition  |   Awarded for contributing MedReason dataset  |   Prof. Xiaoxiao Li, Wenlong Deng, UBC  |   2025.05  |    Bespoke Lab, Together AI,   Hugging Face  |
-|   2  |   수상 실적  |   Best Paper Award   |   Token Hidden Reward: Steering Exploration–Exploitation in GRPO Training  |   Prof. Xiaoxiao Li, Wenlong Deng, UBC  |   2025.06  |   AI4Math workshop @ ICML25  |
-|   3  |   수상 실적  |   KSC 우수발표 논문상  |   우수 발표 논문에 따른 수상  |   KAIST 반민정 학생  |   2025.07  |   한국정보과학회  |
-|   4  |   수상 실적  |   Google Gemini Research Award  |   Awarded for advancing medical foundation model   |   Prof. Xiaoxiao Li, UBC  |   2025.10  |   Google  |
-|   5  |   수상 실적  |   Amazon Research Award  |   Awarded for research advances on efficient AI  |   Prof. Xiaoxiao Li, UBC  |   2025.11  |   Amazon  |
-|   6  |   수상 실적  |   KSC 우수논문상  |   우수 논문에 따른 수상  |   KAIST 최정환 학생  |   2025.12  |   한국정보과학회  |
+|   1  |   수상 실적  |   KSC 우수발표 논문상  |   우수 발표 논문에 따른 수상  |   KAIST 반민정 학생  |   2025.07.30  |   한국정보과학회  |
+|   2  |   수상 실적  |   KSC 감사장  |   학회 발전 기여에 따른 감사장  |   KAIST 민향숙 학생  |   2025.12.16  |   한국정보과학회  |
+|   3  |   수상 실적  |   KSC 우수논문상  |   우수 논문에 따른 수상  |   KAIST 최정환 학생  |   2025.12.18  |   한국정보과학회  |
 
 <!-- ### 기타 성과 -->
 
